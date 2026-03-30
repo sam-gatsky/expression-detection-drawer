@@ -49,4 +49,3 @@ Once FastAPI is active, go back to draw_face script in your active processing wi
 
 
 
-# expression-detection-drawer

@@ -1,0 +1,8 @@
+deepface
+tensorflow
+fastapi
+fastapi[standard]
+uvicorn
+opencv-python
+matplotlib
+tf-keras
