@@ -1,5 +1,4 @@
-# Creative AI Assignment
-# By Sam Gatsky -- sg823@kent.ac.uk
+# Expression Detection through FastAPI requests in Processing
 
 ## What is this?
 Using your webcam, it analyzes the face shown and paints around it depending on the expression.
