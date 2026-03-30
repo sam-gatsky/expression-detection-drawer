@@ -2,12 +2,13 @@
 
 ## What is this?
 Using your webcam, it analyzes the face shown and paints around it depending on the expression.
+![](https://github.com/sam-gatsky/expression-detection-drawer/blob/main/documents/facial%20comparisons.jpg?raw=true "facial features")
 
-Positive expressions: Light green box with bouncing dots inside, bubbling with energy!
+Neutral expression: Back to normal, standard white box surrounding face.
 
 Negative expressions: Red outlining box with piercing lines. Dead inside...
 
-Neutral expression: Back to normal, standard white box surrounding face.
+Positive expressions: Light green box with bouncing dots inside, bubbling with energy!
 
 The project is made of 2 vital components:
 - The processing script (takes input and draws on the canvas)
